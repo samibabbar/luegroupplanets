@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: LUE Seminar 1 Page
+github:
+  is_project_page: false
