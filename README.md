@@ -65,7 +65,10 @@ Morbidelli, A., 2020. Planet formation by pebble accretion in ringed disks. Astr
 
 National Radio Astronomy Observatory, 2023. ALMA Observation of Young Star Reveals Details of Dust Grains. Available at: <https://public.nrao.edu/news/alma-observation-of-young-star-reveals-details-of-dust-grains/> [Accessed 23 February 2024].  
 
-Okrusch, M. and Frimmel, H.E., 2020. The Genesis of Our Solar System. In: Mineralogy. [online] Berlin, Heidelberg: Springer Berlin Heidelberg. pp.667–676. https://doi.org/10.1007/978-3-662-57316-7_34.  <p>
+Okrusch, M. and Frimmel, H.E., 2020. The Genesis of Our Solar System. In: Mineralogy. [online] Berlin, Heidelberg: Springer Berlin Heidelberg. pp.667–676. https://doi.org/10.1007/978-3-662-57316-7_34. 
+
 Sosa, R., 2019. Accretion theory of ideation: evaluation regimes for ideation stages. Design Science, [online] 5, p.e23. https://doi.org/10.1017/dsj.2019.22. 
 
 We Might Be Wrong About Planet Formation. 2022. Available at: <https://www.youtube.com/watch?v=Umu613bK7W8> [Accessed 23 February 2024]. 
+
+![rubric](rubric.png)
