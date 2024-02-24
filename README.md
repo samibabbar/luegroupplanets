@@ -9,7 +9,7 @@ Use the following list to ensure you have all the necessary content for the semi
 2. Read through the **content review and introduction** below
    - Includes links, videos, and summaries
 3. Complete the pre-assessment quiz **(DUE: 2:00 pm on Wednesday, February 28th 2024)**
-4. Download the **in-class seminar** worksheet (Note that handouts will be provided for those who do not have a tablet/fillable PDF extension)
+4. Bring a writing utensil for the in-class worksheet
 
 Please take the time to thoroughly prepare and make sure you have all the required materials to get ready for an engaging lesson! 
 > Sami, Maya, Naya, Max, Keira, Ben 
