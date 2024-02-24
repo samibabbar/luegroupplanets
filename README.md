@@ -57,6 +57,9 @@ The theory of planetary formation, much like the categorisation of exoplanets, i
 
 > Take a moment to reflect on what you already know and some existing questions you have for the upcoming seminar. We look forward to seeing you there ISCI 3A12!
 
+## Rubric for Seminar
+![rubric](rubric.png)
+
 ## References
 
 Drazkowska, J., Bitsch, B., Lambrechts, M., Mulders, G.D., Harsono, D., Vazan, A., Liu, B., Ormel, C.W., Kretke, K. and Morbidelli, A., 2022. Planet Formation Theory in the Era of ALMA and Kepler: from Pebbles to Exoplanets. [online] https://doi.org/10.48550/ARXIV.2203.09759.
@@ -71,4 +74,4 @@ Sosa, R., 2019. Accretion theory of ideation: evaluation regimes for ideation st
 
 We Might Be Wrong About Planet Formation. 2022. Available at: <https://www.youtube.com/watch?v=Umu613bK7W8> [Accessed 23 February 2024]. 
 
-![rubric](rubric.png)
+
