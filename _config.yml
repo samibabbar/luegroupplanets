@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: LUE Seminar 1 - Planetary Formation
 
+github:
+  is_project_page: false
