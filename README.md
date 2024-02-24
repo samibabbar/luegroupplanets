@@ -1,6 +1,7 @@
 
 
 Hello ISCI 3A12! The following preparatory material is for your upcoming seminar on **Wednesday, February 28th 2024 at 4:30 pm (HH 305)**. In this seminar, we will be covering the specific steps to the classical theory of planetary formation, and how this hypothesis has changed in recent years due to Atacama Large Millimeter/submillimeter Array (ALMA) and Kepler technologies. In order to prepare for the lesson. We have developed some short review materials, videos, and an assessment quiz to test your knowledge before the seminar. 
+> Sami, Maya, Naya, Max, Keira, Ben 
 
 ## Pre-Seminar Preparatory Materials
 Use the following list to ensure you have all the necessary content for the seminar:
@@ -12,7 +13,6 @@ Use the following list to ensure you have all the necessary content for the semi
 4. Bring a writing utensil for the in-class worksheet
 
 Please take the time to thoroughly prepare and make sure you have all the required materials to get ready for an engaging lesson! 
-> Sami, Maya, Naya, Max, Keira, Ben 
 
 ## Introductory Video Review:
 
